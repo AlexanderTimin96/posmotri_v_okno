@@ -191,14 +191,14 @@ fieldset {
 }
 
 .search-form__pseudo-checkbox {
- display: flex;  
+  display: flex;
   width: 19px;
-  height: 19px;  
+  height: 19px;
   border: 1px solid #fff;
 }
 
-.search-form__checkbox:checked + .search-form__pseudo-checkbox::before {  
-  content: "";  
+.search-form__checkbox:checked + .search-form__pseudo-checkbox::before {
+  content: "";
   width: 13px;
   height: 13px;
   margin: auto;
