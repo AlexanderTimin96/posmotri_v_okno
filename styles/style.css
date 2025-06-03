@@ -56,6 +56,7 @@ ol {
   overflow: auto;
   -ms-overflow-style: none;
   scrollbar-width: none;
+  position: relative;
 }
 
 .content__list::-webkit-scrollbar {
@@ -71,6 +72,7 @@ ol {
   margin-top: 78px;
   width: 711px;
   padding-bottom: 16px;
+  position: relative;
 }
 
 .result__video {
